@@ -81,4 +81,4 @@ if file_path is not None:
     st.write(pie)
     boxplot = boxplot(data)
     st.plotly_chart(boxplot)
-#toto loco    
+#toto loco123    
